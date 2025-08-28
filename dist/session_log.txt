@@ -1,0 +1,5 @@
+Phone Detox Session Log
+========================
+
+Sun Aug 17 18:30:16 2025: 0.12 minutes
+Sun Aug 17 18:33:58 2025: 0.21 minutes
